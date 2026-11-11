@@ -1,0 +1,1129 @@
+{
+ "url": "https://www.threads.com/api/graphql",
+ "kind": "graphql",
+ "data": {
+  "data": {
+   "media": {
+    "text_post_app_info": {
+     "direct_replies": {
+      "edges": [
+       {
+        "node": {
+         "fetch_token": "redacted",
+         "posts": {
+          "edges": [
+           {
+            "node": {
+             "pk": "7000000000000001025",
+             "text_post_app_info": {
+              "best_of_threads_info": null,
+              "id": "XDTTextPostAppMediaInfo:33315580564124991",
+              "show_header_follow": false,
+              "is_reply": true,
+              "best_of_threads_attachment_info": null,
+              "is_ghost_post": false,
+              "self_thread_info": null,
+              "is_spoiler_media": false,
+              "tappable_elements": [],
+              "is_markup": false,
+              "attachment_tombstone_info": null,
+              "is_pinched": false,
+              "special_effects_enabled_str": "",
+              "reply_control": "everyone",
+              "tag_header": null,
+              "direct_reply_count": 2,
+              "has_viewer_replied": false,
+              "self_thread_count": 0,
+              "can_reply": true,
+              "gen_ai_reply_bot_on_media_deny_reason": "UNAVAILABLE",
+              "ghost_post_exp_time_ms": null,
+              "ghost_post_approximate_like_count_str": null,
+              "ghost_post_reply_type": null,
+              "ghost_post_approximate_reply_count_str": "NONE",
+              "repost_count": 0,
+              "quote_count": 0,
+              "share_info": {
+               "is_reposted_by_viewer": false,
+               "can_quote_post": true,
+               "quoted_attachment_author_attribution_allowed": true,
+               "quoted_attachment_post_unavailable": false,
+               "quoted_attachment_post": null,
+               "quoted_post": null,
+               "reposted_post": null
+              },
+              "reshare_count": null,
+              "can_private_reply": false,
+              "profile_update_attachment_info": null,
+              "custom_feed_preview_info": null,
+              "platform_podcast_episode_info": null,
+              "platform_podcast_info": null,
+              "linked_inline_media": null,
+              "snippet_attachment_info": null,
+              "game_score_share_info": null,
+              "public_view_count_card_attachment_info": null,
+              "community_emoji_update_attachment_info": null,
+              "community_entity_card_info": null,
+              "community_champion_card_attachment_info": null,
+              "scorecard_attachment_info": null,
+              "sport_team_allegiance_card_attachment_info": null,
+              "algo_tweaks_info": null,
+              "reply_to_author": {
+               "profile_pic_url": "https://example.invalid/media/IioSfv3H.jpg",
+               "username": "user_1001",
+               "id": "9000001001"
+              },
+              "hush_info": null,
+              "system_status_message": null,
+              "root_post_author": {
+               "username": "user_1001",
+               "id": "9000001001",
+               "pk": "9000001001",
+               "profile_pic_url": "https://example.invalid/media/IioSfv3H.jpg"
+              },
+              "author_context_pill": null,
+              "is_liked_by_root_author": true,
+              "pinned_post_info": {
+               "is_pinned_to_parent_post": false,
+               "is_pinned_to_profile": false
+              },
+              "related_trends_info": null,
+              "is_post_unavailable": false,
+              "post_unavailable_reason": null,
+              "post_tombstone_info": null,
+              "reply_cover_hush_info": null,
+              "reply_level": 1
+             },
+             "user": {
+              "pk": "9000001016",
+              "id": "9000001016",
+              "text_app_last_visited_time": 0,
+              "profile_pic_url": "https://example.invalid/media/nfOZQqmK.jpg",
+              "username": "user_1016",
+              "is_meta_ai_bot": false,
+              "full_name": "User 1016",
+              "transparency_label": null,
+              "transparency_product": null,
+              "transparency_product_enabled": false,
+              "is_verified": false,
+              "has_onboarded_to_text_post_app": true,
+              "text_post_app_is_private": false
+             },
+             "id": "7000000000000001025_9000001016",
+             "is_paid_partnership": null,
+             "caption": {
+              "text": "Вітряки біля нас шумлять, але світло є 💡 №25",
+              "can_translate": true,
+              "has_translation": true,
+              "pk": "12090255784165853",
+              "text_translation": null
+             },
+             "caption_is_edited": false,
+             "carousel_media": null,
+             "code": "AvKIQ-Hjetw",
+             "image_versions2": {
+              "candidates": []
+             },
+             "original_height": 612,
+             "original_width": 612,
+             "accessibility_caption": null,
+             "is_dash_eligible": null,
+             "number_of_qualities": null,
+             "video_versions": null,
+             "has_audio": null,
+             "media_type": 19,
+             "fbid": "33315580564124991",
+             "audience": null,
+             "has_liked": false,
+             "like_count": 65,
+             "taken_at": 1793331292,
+             "canonical_url": null,
+             "has_viewer_saved": null,
+             "original_lang_for_translations": null,
+             "detected_language": null,
+             "source_type": null,
+             "gen_ai_detection_method": {
+              "detection_method": "NONE"
+             },
+             "like_and_view_counts_disabled": false
+            },
+            "replies_facepile": [
+             {
+              "profile_pic_url": "https://example.invalid/media/IioSfv3H.jpg",
+              "id": "9000001001"
+             },
+             {
+              "profile_pic_url": "https://example.invalid/media/GvvQS-tE.jpg",
+              "id": "9000001003"
+             }
+            ]
+           }
+          ],
+          "page_info": {
+           "end_cursor": "redacted",
+           "has_next_page": true
+          }
+         },
+         "post_ids": {
+          "edges": [
+           {
+            "node": {
+             "pk": "7000000000000001025",
+             "text_post_app_info": {
+              "reply_cover_hush_info": null,
+              "id": "XDTTextPostAppMediaInfo:33315580564124991"
+             },
+             "id": "7000000000000001025_9000001016"
+            }
+           }
+          ]
+         },
+         "__typename": "XDTTextAppThreadView"
+        },
+        "cursor": null
+       },
+       {
+        "node": {
+         "fetch_token": "redacted",
+         "posts": {
+          "edges": [
+           {
+            "node": {
+             "pk": "7000000000000001026",
+             "text_post_app_info": {
+              "best_of_threads_info": null,
+              "id": "XDTTextPostAppMediaInfo:34447437489179835",
+              "show_header_follow": false,
+              "is_reply": true,
+              "best_of_threads_attachment_info": null,
+              "is_ghost_post": false,
+              "self_thread_info": null,
+              "is_spoiler_media": false,
+              "tappable_elements": [],
+              "is_markup": false,
+              "attachment_tombstone_info": null,
+              "is_pinched": false,
+              "special_effects_enabled_str": "",
+              "reply_control": "everyone",
+              "tag_header": null,
+              "direct_reply_count": 1,
+              "has_viewer_replied": false,
+              "self_thread_count": 0,
+              "can_reply": true,
+              "gen_ai_reply_bot_on_media_deny_reason": "UNAVAILABLE",
+              "ghost_post_exp_time_ms": null,
+              "ghost_post_approximate_like_count_str": null,
+              "ghost_post_reply_type": null,
+              "ghost_post_approximate_reply_count_str": "NONE",
+              "repost_count": 0,
+              "quote_count": 0,
+              "share_info": {
+               "is_reposted_by_viewer": false,
+               "can_quote_post": true,
+               "quoted_attachment_author_attribution_allowed": true,
+               "quoted_attachment_post_unavailable": false,
+               "quoted_attachment_post": null,
+               "quoted_post": null,
+               "reposted_post": null
+              },
+              "reshare_count": null,
+              "can_private_reply": false,
+              "profile_update_attachment_info": null,
+              "custom_feed_preview_info": null,
+              "platform_podcast_episode_info": null,
+              "platform_podcast_info": null,
+              "linked_inline_media": null,
+              "snippet_attachment_info": null,
+              "game_score_share_info": null,
+              "public_view_count_card_attachment_info": null,
+              "community_emoji_update_attachment_info": null,
+              "community_entity_card_info": null,
+              "community_champion_card_attachment_info": null,
+              "scorecard_attachment_info": null,
+              "sport_team_allegiance_card_attachment_info": null,
+              "algo_tweaks_info": null,
+              "reply_to_author": {
+               "profile_pic_url": "https://example.invalid/media/IioSfv3H.jpg",
+               "username": "user_1001",
+               "id": "9000001001"
+              },
+              "hush_info": null,
+              "system_status_message": null,
+              "root_post_author": {
+               "username": "user_1001",
+               "id": "9000001001",
+               "pk": "9000001001",
+               "profile_pic_url": "https://example.invalid/media/IioSfv3H.jpg"
+              },
+              "author_context_pill": null,
+              "is_liked_by_root_author": true,
+              "pinned_post_info": {
+               "is_pinned_to_parent_post": false,
+               "is_pinned_to_profile": false
+              },
+              "related_trends_info": null,
+              "is_post_unavailable": false,
+              "post_unavailable_reason": null,
+              "post_tombstone_info": null,
+              "reply_cover_hush_info": null,
+              "reply_level": 1
+             },
+             "user": {
+              "pk": "9000001017",
+              "id": "9000001017",
+              "text_app_last_visited_time": 1793449217,
+              "profile_pic_url": "https://example.invalid/media/3UjyzMBj.jpg",
+              "username": "user_1017",
+              "is_meta_ai_bot": false,
+              "full_name": "User 1017",
+              "transparency_label": null,
+              "transparency_product": null,
+              "transparency_product_enabled": false,
+              "is_verified": false,
+              "has_onboarded_to_text_post_app": true,
+              "text_post_app_is_private": false
+             },
+             "id": "7000000000000001026_9000001017",
+             "is_paid_partnership": null,
+             "caption": {
+              "text": "Що думаєте про теплові насоси? №26",
+              "can_translate": true,
+              "has_translation": true,
+              "pk": "12528903200686352",
+              "text_translation": null
+             },
+             "caption_is_edited": false,
+             "carousel_media": null,
+             "code": "AGDcjcmqSdW",
+             "image_versions2": {
+              "candidates": []
+             },
+             "original_height": 612,
+             "original_width": 612,
+             "accessibility_caption": null,
+             "is_dash_eligible": null,
+             "number_of_qualities": null,
+             "video_versions": null,
+             "has_audio": null,
+             "media_type": 19,
+             "fbid": "34447437489179835",
+             "audience": null,
+             "has_liked": false,
+             "like_count": 3,
+             "taken_at": 1793408598,
+             "canonical_url": null,
+             "has_viewer_saved": null,
+             "original_lang_for_translations": null,
+             "detected_language": null,
+             "source_type": null,
+             "gen_ai_detection_method": {
+              "detection_method": "NONE"
+             },
+             "like_and_view_counts_disabled": false
+            },
+            "replies_facepile": []
+           },
+           {
+            "node": {
+             "pk": "7000000000000001027",
+             "text_post_app_info": {
+              "best_of_threads_info": null,
+              "id": "XDTTextPostAppMediaInfo:26001070725222106",
+              "show_header_follow": false,
+              "is_reply": true,
+              "best_of_threads_attachment_info": null,
+              "is_ghost_post": false,
+              "self_thread_info": null,
+              "is_spoiler_media": false,
+              "tappable_elements": [],
+              "is_markup": false,
+              "attachment_tombstone_info": null,
+              "is_pinched": false,
+              "special_effects_enabled_str": "",
+              "reply_control": "everyone",
+              "tag_header": null,
+              "direct_reply_count": 0,
+              "has_viewer_replied": false,
+              "self_thread_count": 0,
+              "can_reply": true,
+              "gen_ai_reply_bot_on_media_deny_reason": "UNAVAILABLE",
+              "ghost_post_exp_time_ms": null,
+              "ghost_post_approximate_like_count_str": null,
+              "ghost_post_reply_type": null,
+              "ghost_post_approximate_reply_count_str": "NONE",
+              "repost_count": 0,
+              "quote_count": 0,
+              "share_info": {
+               "is_reposted_by_viewer": false,
+               "can_quote_post": true,
+               "quoted_attachment_author_attribution_allowed": true,
+               "quoted_attachment_post_unavailable": false,
+               "quoted_attachment_post": null,
+               "quoted_post": null,
+               "reposted_post": null
+              },
+              "reshare_count": null,
+              "can_private_reply": false,
+              "profile_update_attachment_info": null,
+              "custom_feed_preview_info": null,
+              "platform_podcast_episode_info": null,
+              "platform_podcast_info": null,
+              "linked_inline_media": null,
+              "snippet_attachment_info": null,
+              "game_score_share_info": null,
+              "public_view_count_card_attachment_info": null,
+              "community_emoji_update_attachment_info": null,
+              "community_entity_card_info": null,
+              "community_champion_card_attachment_info": null,
+              "scorecard_attachment_info": null,
+              "sport_team_allegiance_card_attachment_info": null,
+              "algo_tweaks_info": null,
+              "reply_to_author": {
+               "profile_pic_url": "https://example.invalid/media/3UjyzMBj.jpg",
+               "username": "user_1017",
+               "id": "9000001017"
+              },
+              "hush_info": null,
+              "system_status_message": null,
+              "root_post_author": {
+               "username": "user_1001",
+               "id": "9000001001",
+               "pk": "9000001001",
+               "profile_pic_url": "https://example.invalid/media/IioSfv3H.jpg"
+              },
+              "author_context_pill": null,
+              "is_liked_by_root_author": false,
+              "pinned_post_info": {
+               "is_pinned_to_parent_post": false,
+               "is_pinned_to_profile": false
+              },
+              "related_trends_info": null,
+              "is_post_unavailable": false,
+              "post_unavailable_reason": null,
+              "post_tombstone_info": null,
+              "reply_cover_hush_info": null,
+              "reply_level": 2
+             },
+             "user": {
+              "pk": "9000001001",
+              "id": "9000001001",
+              "text_app_last_visited_time": 0,
+              "profile_pic_url": "https://example.invalid/media/IioSfv3H.jpg",
+              "username": "user_1001",
+              "is_meta_ai_bot": false,
+              "full_name": "User 1001",
+              "transparency_label": null,
+              "transparency_product": null,
+              "transparency_product_enabled": false,
+              "is_verified": false,
+              "has_onboarded_to_text_post_app": true,
+              "text_post_app_is_private": false
+             },
+             "id": "7000000000000001027_9000001001",
+             "is_paid_partnership": null,
+             "caption": {
+              "text": "Согласен, у нас так же. Спасибо! №27",
+              "can_translate": true,
+              "has_translation": true,
+              "pk": "47209323483423806",
+              "text_translation": null
+             },
+             "caption_is_edited": false,
+             "carousel_media": null,
+             "code": "A4ZTuQTgFul",
+             "image_versions2": {
+              "candidates": []
+             },
+             "original_height": 612,
+             "original_width": 612,
+             "accessibility_caption": null,
+             "is_dash_eligible": null,
+             "number_of_qualities": null,
+             "video_versions": null,
+             "has_audio": null,
+             "media_type": 19,
+             "fbid": "26001070725222106",
+             "audience": null,
+             "has_liked": false,
+             "like_count": 1,
+             "taken_at": 1793420682,
+             "canonical_url": null,
+             "has_viewer_saved": null,
+             "original_lang_for_translations": null,
+             "detected_language": null,
+             "source_type": null,
+             "gen_ai_detection_method": {
+              "detection_method": "NONE"
+             },
+             "like_and_view_counts_disabled": false
+            },
+            "replies_facepile": []
+           }
+          ],
+          "page_info": {
+           "end_cursor": null,
+           "has_next_page": false
+          }
+         },
+         "post_ids": {
+          "edges": [
+           {
+            "node": {
+             "pk": "7000000000000001026",
+             "text_post_app_info": {
+              "reply_cover_hush_info": null,
+              "id": "XDTTextPostAppMediaInfo:34447437489179835"
+             },
+             "id": "7000000000000001026_9000001017"
+            }
+           },
+           {
+            "node": {
+             "pk": "7000000000000001027",
+             "text_post_app_info": {
+              "reply_cover_hush_info": null,
+              "id": "XDTTextPostAppMediaInfo:26001070725222106"
+             },
+             "id": "7000000000000001027_9000001001"
+            }
+           }
+          ]
+         },
+         "__typename": "XDTTextAppThreadView"
+        },
+        "cursor": null
+       },
+       {
+        "node": {
+         "fetch_token": "redacted",
+         "posts": {
+          "edges": [
+           {
+            "node": {
+             "pk": "7000000000000001028",
+             "text_post_app_info": {
+              "best_of_threads_info": null,
+              "id": "XDTTextPostAppMediaInfo:45519139750595589",
+              "show_header_follow": false,
+              "is_reply": true,
+              "best_of_threads_attachment_info": null,
+              "is_ghost_post": false,
+              "self_thread_info": null,
+              "is_spoiler_media": false,
+              "tappable_elements": [],
+              "is_markup": false,
+              "attachment_tombstone_info": null,
+              "is_pinched": false,
+              "special_effects_enabled_str": "",
+              "reply_control": "everyone",
+              "tag_header": null,
+              "direct_reply_count": 1,
+              "has_viewer_replied": false,
+              "self_thread_count": 0,
+              "can_reply": true,
+              "gen_ai_reply_bot_on_media_deny_reason": "UNAVAILABLE",
+              "ghost_post_exp_time_ms": null,
+              "ghost_post_approximate_like_count_str": null,
+              "ghost_post_reply_type": null,
+              "ghost_post_approximate_reply_count_str": "NONE",
+              "repost_count": 0,
+              "quote_count": 0,
+              "share_info": {
+               "is_reposted_by_viewer": false,
+               "can_quote_post": true,
+               "quoted_attachment_author_attribution_allowed": true,
+               "quoted_attachment_post_unavailable": false,
+               "quoted_attachment_post": null,
+               "quoted_post": null,
+               "reposted_post": null
+              },
+              "reshare_count": 1,
+              "can_private_reply": false,
+              "profile_update_attachment_info": null,
+              "custom_feed_preview_info": null,
+              "platform_podcast_episode_info": null,
+              "platform_podcast_info": null,
+              "linked_inline_media": null,
+              "snippet_attachment_info": null,
+              "game_score_share_info": null,
+              "public_view_count_card_attachment_info": null,
+              "community_emoji_update_attachment_info": null,
+              "community_entity_card_info": null,
+              "community_champion_card_attachment_info": null,
+              "scorecard_attachment_info": null,
+              "sport_team_allegiance_card_attachment_info": null,
+              "algo_tweaks_info": null,
+              "reply_to_author": {
+               "profile_pic_url": "https://example.invalid/media/IioSfv3H.jpg",
+               "username": "user_1001",
+               "id": "9000001001"
+              },
+              "hush_info": null,
+              "system_status_message": null,
+              "root_post_author": {
+               "username": "user_1001",
+               "id": "9000001001",
+               "pk": "9000001001",
+               "profile_pic_url": "https://example.invalid/media/IioSfv3H.jpg"
+              },
+              "author_context_pill": null,
+              "is_liked_by_root_author": true,
+              "pinned_post_info": {
+               "is_pinned_to_parent_post": false,
+               "is_pinned_to_profile": false
+              },
+              "related_trends_info": null,
+              "is_post_unavailable": false,
+              "post_unavailable_reason": null,
+              "post_tombstone_info": null,
+              "reply_cover_hush_info": null,
+              "reply_level": 1
+             },
+             "user": {
+              "pk": "9000001018",
+              "id": "9000001018",
+              "text_app_last_visited_time": 0,
+              "profile_pic_url": "https://example.invalid/media/AicMKvQK.jpg",
+              "username": "user_1018",
+              "is_meta_ai_bot": false,
+              "full_name": "User 1018",
+              "transparency_label": null,
+              "transparency_product": null,
+              "transparency_product_enabled": false,
+              "is_verified": false,
+              "has_onboarded_to_text_post_app": true,
+              "text_post_app_is_private": false
+             },
+             "id": "7000000000000001028_9000001018",
+             "is_paid_partnership": null,
+             "caption": {
+              "text": "Окупність приблизно 6 років, якщо без кредиту №28",
+              "can_translate": true,
+              "has_translation": true,
+              "pk": "12986767300983634",
+              "text_translation": null
+             },
+             "caption_is_edited": false,
+             "carousel_media": null,
+             "code": "A2ZNehL12PN",
+             "image_versions2": {
+              "candidates": []
+             },
+             "original_height": 612,
+             "original_width": 612,
+             "accessibility_caption": null,
+             "is_dash_eligible": null,
+             "number_of_qualities": null,
+             "video_versions": null,
+             "has_audio": null,
+             "media_type": 19,
+             "fbid": "45519139750595589",
+             "audience": null,
+             "has_liked": false,
+             "like_count": 25,
+             "taken_at": 1793351182,
+             "canonical_url": null,
+             "has_viewer_saved": null,
+             "original_lang_for_translations": null,
+             "detected_language": null,
+             "source_type": null,
+             "gen_ai_detection_method": {
+              "detection_method": "NONE"
+             },
+             "like_and_view_counts_disabled": false
+            },
+            "replies_facepile": []
+           },
+           {
+            "node": {
+             "pk": "7000000000000001029",
+             "text_post_app_info": {
+              "best_of_threads_info": null,
+              "id": "XDTTextPostAppMediaInfo:71244614350965873",
+              "show_header_follow": false,
+              "is_reply": true,
+              "best_of_threads_attachment_info": null,
+              "is_ghost_post": false,
+              "self_thread_info": null,
+              "is_spoiler_media": false,
+              "tappable_elements": [],
+              "is_markup": false,
+              "attachment_tombstone_info": null,
+              "is_pinched": false,
+              "special_effects_enabled_str": "",
+              "reply_control": "everyone",
+              "tag_header": null,
+              "direct_reply_count": 0,
+              "has_viewer_replied": false,
+              "self_thread_count": 0,
+              "can_reply": true,
+              "gen_ai_reply_bot_on_media_deny_reason": "UNAVAILABLE",
+              "ghost_post_exp_time_ms": null,
+              "ghost_post_approximate_like_count_str": null,
+              "ghost_post_reply_type": null,
+              "ghost_post_approximate_reply_count_str": "NONE",
+              "repost_count": 0,
+              "quote_count": 0,
+              "share_info": {
+               "is_reposted_by_viewer": false,
+               "can_quote_post": true,
+               "quoted_attachment_author_attribution_allowed": true,
+               "quoted_attachment_post_unavailable": false,
+               "quoted_attachment_post": null,
+               "quoted_post": null,
+               "reposted_post": null
+              },
+              "reshare_count": null,
+              "can_private_reply": false,
+              "profile_update_attachment_info": null,
+              "custom_feed_preview_info": null,
+              "platform_podcast_episode_info": null,
+              "platform_podcast_info": null,
+              "linked_inline_media": null,
+              "snippet_attachment_info": null,
+              "game_score_share_info": null,
+              "public_view_count_card_attachment_info": null,
+              "community_emoji_update_attachment_info": null,
+              "community_entity_card_info": null,
+              "community_champion_card_attachment_info": null,
+              "scorecard_attachment_info": null,
+              "sport_team_allegiance_card_attachment_info": null,
+              "algo_tweaks_info": null,
+              "reply_to_author": {
+               "profile_pic_url": "https://example.invalid/media/AicMKvQK.jpg",
+               "username": "user_1018",
+               "id": "9000001018"
+              },
+              "hush_info": null,
+              "system_status_message": null,
+              "root_post_author": {
+               "username": "user_1001",
+               "id": "9000001001",
+               "pk": "9000001001",
+               "profile_pic_url": "https://example.invalid/media/IioSfv3H.jpg"
+              },
+              "author_context_pill": null,
+              "is_liked_by_root_author": false,
+              "pinned_post_info": {
+               "is_pinned_to_parent_post": false,
+               "is_pinned_to_profile": false
+              },
+              "related_trends_info": null,
+              "is_post_unavailable": false,
+              "post_unavailable_reason": null,
+              "post_tombstone_info": null,
+              "reply_cover_hush_info": null,
+              "reply_level": 2
+             },
+             "user": {
+              "pk": "9000001001",
+              "id": "9000001001",
+              "text_app_last_visited_time": 0,
+              "profile_pic_url": "https://example.invalid/media/IioSfv3H.jpg",
+              "username": "user_1001",
+              "is_meta_ai_bot": false,
+              "full_name": "User 1001",
+              "transparency_label": null,
+              "transparency_product": null,
+              "transparency_product_enabled": false,
+              "is_verified": false,
+              "has_onboarded_to_text_post_app": true,
+              "text_post_app_is_private": false
+             },
+             "id": "7000000000000001029_9000001001",
+             "is_paid_partnership": null,
+             "caption": {
+              "text": "Сумніваюсь, що це працює взимку ❄️ №29",
+              "can_translate": true,
+              "has_translation": true,
+              "pk": "63190352297750603",
+              "text_translation": null
+             },
+             "caption_is_edited": false,
+             "carousel_media": null,
+             "code": "AaF3xgb6A_4",
+             "image_versions2": {
+              "candidates": []
+             },
+             "original_height": 612,
+             "original_width": 612,
+             "accessibility_caption": null,
+             "is_dash_eligible": null,
+             "number_of_qualities": null,
+             "video_versions": null,
+             "has_audio": null,
+             "media_type": 19,
+             "fbid": "71244614350965873",
+             "audience": null,
+             "has_liked": false,
+             "like_count": 16,
+             "taken_at": 1793359656,
+             "canonical_url": null,
+             "has_viewer_saved": null,
+             "original_lang_for_translations": null,
+             "detected_language": null,
+             "source_type": null,
+             "gen_ai_detection_method": {
+              "detection_method": "NONE"
+             },
+             "like_and_view_counts_disabled": false
+            },
+            "replies_facepile": []
+           }
+          ],
+          "page_info": {
+           "end_cursor": null,
+           "has_next_page": false
+          }
+         },
+         "post_ids": {
+          "edges": [
+           {
+            "node": {
+             "pk": "7000000000000001028",
+             "text_post_app_info": {
+              "reply_cover_hush_info": null,
+              "id": "XDTTextPostAppMediaInfo:45519139750595589"
+             },
+             "id": "7000000000000001028_9000001018"
+            }
+           },
+           {
+            "node": {
+             "pk": "7000000000000001029",
+             "text_post_app_info": {
+              "reply_cover_hush_info": null,
+              "id": "XDTTextPostAppMediaInfo:71244614350965873"
+             },
+             "id": "7000000000000001029_9000001001"
+            }
+           }
+          ]
+         },
+         "__typename": "XDTTextAppThreadView"
+        },
+        "cursor": null
+       },
+       {
+        "node": {
+         "fetch_token": "redacted",
+         "posts": {
+          "edges": [
+           {
+            "node": {
+             "pk": "7000000000000001030",
+             "text_post_app_info": {
+              "best_of_threads_info": null,
+              "id": "XDTTextPostAppMediaInfo:49255249557348619",
+              "show_header_follow": false,
+              "is_reply": true,
+              "best_of_threads_attachment_info": null,
+              "is_ghost_post": false,
+              "self_thread_info": null,
+              "is_spoiler_media": false,
+              "tappable_elements": [],
+              "is_markup": false,
+              "attachment_tombstone_info": null,
+              "is_pinched": false,
+              "special_effects_enabled_str": "",
+              "reply_control": "everyone",
+              "tag_header": null,
+              "direct_reply_count": 1,
+              "has_viewer_replied": false,
+              "self_thread_count": 0,
+              "can_reply": true,
+              "gen_ai_reply_bot_on_media_deny_reason": "UNAVAILABLE",
+              "ghost_post_exp_time_ms": null,
+              "ghost_post_approximate_like_count_str": null,
+              "ghost_post_reply_type": null,
+              "ghost_post_approximate_reply_count_str": "NONE",
+              "repost_count": 0,
+              "quote_count": 0,
+              "share_info": {
+               "is_reposted_by_viewer": false,
+               "can_quote_post": true,
+               "quoted_attachment_author_attribution_allowed": true,
+               "quoted_attachment_post_unavailable": false,
+               "quoted_attachment_post": null,
+               "quoted_post": null,
+               "reposted_post": null
+              },
+              "reshare_count": null,
+              "can_private_reply": false,
+              "profile_update_attachment_info": null,
+              "custom_feed_preview_info": null,
+              "platform_podcast_episode_info": null,
+              "platform_podcast_info": null,
+              "linked_inline_media": null,
+              "snippet_attachment_info": null,
+              "game_score_share_info": null,
+              "public_view_count_card_attachment_info": null,
+              "community_emoji_update_attachment_info": null,
+              "community_entity_card_info": null,
+              "community_champion_card_attachment_info": null,
+              "scorecard_attachment_info": null,
+              "sport_team_allegiance_card_attachment_info": null,
+              "algo_tweaks_info": null,
+              "reply_to_author": {
+               "profile_pic_url": "https://example.invalid/media/IioSfv3H.jpg",
+               "username": "user_1001",
+               "id": "9000001001"
+              },
+              "hush_info": null,
+              "system_status_message": null,
+              "root_post_author": {
+               "username": "user_1001",
+               "id": "9000001001",
+               "pk": "9000001001",
+               "profile_pic_url": "https://example.invalid/media/IioSfv3H.jpg"
+              },
+              "author_context_pill": null,
+              "is_liked_by_root_author": true,
+              "pinned_post_info": {
+               "is_pinned_to_parent_post": false,
+               "is_pinned_to_profile": false
+              },
+              "related_trends_info": null,
+              "is_post_unavailable": false,
+              "post_unavailable_reason": null,
+              "post_tombstone_info": null,
+              "reply_cover_hush_info": null,
+              "reply_level": 1
+             },
+             "user": {
+              "pk": "9000001019",
+              "id": "9000001019",
+              "text_app_last_visited_time": 0,
+              "profile_pic_url": "https://example.invalid/media/smLpG_EH.jpg",
+              "username": "user_1019",
+              "is_meta_ai_bot": false,
+              "full_name": "User 1019",
+              "transparency_label": null,
+              "transparency_product": null,
+              "transparency_product_enabled": false,
+              "is_verified": false,
+              "has_onboarded_to_text_post_app": true,
+              "text_post_app_is_private": false
+             },
+             "id": "7000000000000001030_9000001019",
+             "is_paid_partnership": null,
+             "caption": {
+              "text": "Ось мій досвід за рік:\nвитрати впали вдвічі №30",
+              "can_translate": true,
+              "has_translation": true,
+              "pk": "11155257632118487",
+              "text_translation": null
+             },
+             "caption_is_edited": false,
+             "carousel_media": null,
+             "code": "AVBBTXrpFvd",
+             "image_versions2": {
+              "candidates": []
+             },
+             "original_height": 612,
+             "original_width": 612,
+             "accessibility_caption": null,
+             "is_dash_eligible": null,
+             "number_of_qualities": null,
+             "video_versions": null,
+             "has_audio": null,
+             "media_type": 19,
+             "fbid": "49255249557348619",
+             "audience": null,
+             "has_liked": false,
+             "like_count": 58,
+             "taken_at": 1793351273,
+             "canonical_url": null,
+             "has_viewer_saved": null,
+             "original_lang_for_translations": null,
+             "detected_language": null,
+             "source_type": null,
+             "gen_ai_detection_method": {
+              "detection_method": "NONE"
+             },
+             "like_and_view_counts_disabled": false
+            },
+            "replies_facepile": []
+           },
+           {
+            "node": {
+             "pk": "7000000000000001031",
+             "text_post_app_info": {
+              "best_of_threads_info": null,
+              "id": "XDTTextPostAppMediaInfo:14601573360875227",
+              "show_header_follow": false,
+              "is_reply": true,
+              "best_of_threads_attachment_info": null,
+              "is_ghost_post": false,
+              "self_thread_info": null,
+              "is_spoiler_media": false,
+              "tappable_elements": [],
+              "is_markup": false,
+              "attachment_tombstone_info": null,
+              "is_pinched": false,
+              "special_effects_enabled_str": "",
+              "reply_control": "everyone",
+              "tag_header": null,
+              "direct_reply_count": 0,
+              "has_viewer_replied": false,
+              "self_thread_count": 0,
+              "can_reply": true,
+              "gen_ai_reply_bot_on_media_deny_reason": "UNAVAILABLE",
+              "ghost_post_exp_time_ms": null,
+              "ghost_post_approximate_like_count_str": null,
+              "ghost_post_reply_type": null,
+              "ghost_post_approximate_reply_count_str": "NONE",
+              "repost_count": 0,
+              "quote_count": 0,
+              "share_info": {
+               "is_reposted_by_viewer": false,
+               "can_quote_post": true,
+               "quoted_attachment_author_attribution_allowed": true,
+               "quoted_attachment_post_unavailable": false,
+               "quoted_attachment_post": null,
+               "quoted_post": null,
+               "reposted_post": null
+              },
+              "reshare_count": null,
+              "can_private_reply": false,
+              "profile_update_attachment_info": null,
+              "custom_feed_preview_info": null,
+              "platform_podcast_episode_info": null,
+              "platform_podcast_info": null,
+              "linked_inline_media": null,
+              "snippet_attachment_info": null,
+              "game_score_share_info": null,
+              "public_view_count_card_attachment_info": null,
+              "community_emoji_update_attachment_info": null,
+              "community_entity_card_info": null,
+              "community_champion_card_attachment_info": null,
+              "scorecard_attachment_info": null,
+              "sport_team_allegiance_card_attachment_info": null,
+              "algo_tweaks_info": null,
+              "reply_to_author": {
+               "profile_pic_url": "https://example.invalid/media/smLpG_EH.jpg",
+               "username": "user_1019",
+               "id": "9000001019"
+              },
+              "hush_info": null,
+              "system_status_message": null,
+              "root_post_author": {
+               "username": "user_1001",
+               "id": "9000001001",
+               "pk": "9000001001",
+               "profile_pic_url": "https://example.invalid/media/IioSfv3H.jpg"
+              },
+              "author_context_pill": null,
+              "is_liked_by_root_author": false,
+              "pinned_post_info": {
+               "is_pinned_to_parent_post": false,
+               "is_pinned_to_profile": false
+              },
+              "related_trends_info": null,
+              "is_post_unavailable": false,
+              "post_unavailable_reason": null,
+              "post_tombstone_info": null,
+              "reply_cover_hush_info": null,
+              "reply_level": 2
+             },
+             "user": {
+              "pk": "9000001001",
+              "id": "9000001001",
+              "text_app_last_visited_time": 0,
+              "profile_pic_url": "https://example.invalid/media/IioSfv3H.jpg",
+              "username": "user_1001",
+              "is_meta_ai_bot": false,
+              "full_name": "User 1001",
+              "transparency_label": null,
+              "transparency_product": null,
+              "transparency_product_enabled": false,
+              "is_verified": false,
+              "has_onboarded_to_text_post_app": true,
+              "text_post_app_is_private": false
+             },
+             "id": "7000000000000001031_9000001001",
+             "is_paid_partnership": null,
+             "caption": {
+              "text": "Нарешті встановив сонячні панелі ☀️ №31",
+              "can_translate": true,
+              "has_translation": true,
+              "pk": "12255226445889117",
+              "text_translation": null
+             },
+             "caption_is_edited": false,
+             "carousel_media": null,
+             "code": "ARc4SD-qiwa",
+             "image_versions2": {
+              "candidates": []
+             },
+             "original_height": 612,
+             "original_width": 612,
+             "accessibility_caption": null,
+             "is_dash_eligible": null,
+             "number_of_qualities": null,
+             "video_versions": null,
+             "has_audio": null,
+             "media_type": 19,
+             "fbid": "14601573360875227",
+             "audience": null,
+             "has_liked": false,
+             "like_count": 6,
+             "taken_at": 1793352423,
+             "canonical_url": null,
+             "has_viewer_saved": null,
+             "original_lang_for_translations": null,
+             "detected_language": null,
+             "source_type": null,
+             "gen_ai_detection_method": {
+              "detection_method": "NONE"
+             },
+             "like_and_view_counts_disabled": false
+            },
+            "replies_facepile": []
+           }
+          ],
+          "page_info": {
+           "end_cursor": null,
+           "has_next_page": false
+          }
+         },
+         "post_ids": {
+          "edges": [
+           {
+            "node": {
+             "pk": "7000000000000001030",
+             "text_post_app_info": {
+              "reply_cover_hush_info": null,
+              "id": "XDTTextPostAppMediaInfo:49255249557348619"
+             },
+             "id": "7000000000000001030_9000001019"
+            }
+           },
+           {
+            "node": {
+             "pk": "7000000000000001031",
+             "text_post_app_info": {
+              "reply_cover_hush_info": null,
+              "id": "XDTTextPostAppMediaInfo:14601573360875227"
+             },
+             "id": "7000000000000001031_9000001001"
+            }
+           }
+          ]
+         },
+         "__typename": "XDTTextAppThreadView"
+        },
+        "cursor": null
+       }
+      ],
+      "page_info": {
+       "end_cursor": "redacted",
+       "has_next_page": true
+      }
+     },
+     "id": "XDTTextPostAppMediaInfo:67587878623397304"
+    },
+    "id": "7000000000000001001_9000001001"
+   }
+  }
+ }
+}

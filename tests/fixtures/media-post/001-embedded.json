@@ -1,0 +1,460 @@
+{
+ "url": "https://www.threads.com/@user_019/post/A_AdNUBMC6y",
+ "kind": "embedded",
+ "data": {
+  "require": [
+   [
+    "ScheduledServerJS",
+    "handle",
+    null,
+    [
+     {
+      "__bbox": {
+       "require": [
+        [
+         "RelayPrefetchedStreamCache",
+         "next",
+         [],
+         [
+          "adp_BarcelonaPostPageTargetQueryRelayPreloader_6ae60fa5edb7d5955817154",
+          {
+           "__bbox": {
+            "complete": true,
+            "result": {
+             "data": {
+              "media": {
+               "pk": "7000000000000000036",
+               "id": "7000000000000000036_9000000019",
+               "user": {
+                "pk": "9000000019",
+                "text_app_last_visited_time": 1793456586,
+                "profile_pic_url": "https://example.invalid/media/OSSv4suj.jpg",
+                "username": "user_019",
+                "id": "9000000019",
+                "is_meta_ai_bot": false,
+                "full_name": "User 019",
+                "transparency_label": null,
+                "transparency_product": null,
+                "transparency_product_enabled": false,
+                "is_verified": true,
+                "has_onboarded_to_text_post_app": true,
+                "text_post_app_is_private": false,
+                "platform_podcast_episode_info": null,
+                "platform_podcast_info": null
+               },
+               "text_post_app_info": {
+                "show_header_follow": true,
+                "is_reply": false,
+                "id": "XDTTextPostAppMediaInfo:87043436751295715",
+                "best_of_threads_attachment_info": null,
+                "is_ghost_post": false,
+                "self_thread_info": {
+                 "self_thread_length": 7,
+                 "id": "67207922653177010",
+                 "post_position_in_self_thread": 1
+                },
+                "is_spoiler_media": false,
+                "tappable_elements": [],
+                "is_markup": false,
+                "attachment_tombstone_info": null,
+                "is_pinched": false,
+                "special_effects_enabled_str": "",
+                "reply_control": "everyone",
+                "tag_header": null,
+                "direct_reply_count": 98,
+                "has_viewer_replied": false,
+                "self_thread_count": 0,
+                "can_reply": true,
+                "gen_ai_reply_bot_on_media_deny_reason": "UNAVAILABLE",
+                "ghost_post_exp_time_ms": null,
+                "ghost_post_approximate_like_count_str": null,
+                "ghost_post_reply_type": null,
+                "ghost_post_approximate_reply_count_str": "NONE",
+                "repost_count": 4,
+                "quote_count": 0,
+                "share_info": {
+                 "is_reposted_by_viewer": false,
+                 "can_quote_post": true,
+                 "quoted_attachment_author_attribution_allowed": true,
+                 "quoted_attachment_post_unavailable": false,
+                 "quoted_attachment_post": null,
+                 "quoted_post": null,
+                 "reposted_post": null
+                },
+                "reshare_count": 379,
+                "can_private_reply": false,
+                "profile_update_attachment_info": null,
+                "custom_feed_preview_info": null,
+                "platform_podcast_episode_info": null,
+                "platform_podcast_info": null,
+                "linked_inline_media": null,
+                "snippet_attachment_info": null,
+                "game_score_share_info": null,
+                "public_view_count_card_attachment_info": null,
+                "community_emoji_update_attachment_info": null,
+                "community_entity_card_info": null,
+                "community_champion_card_attachment_info": null,
+                "scorecard_attachment_info": null,
+                "sport_team_allegiance_card_attachment_info": null,
+                "algo_tweaks_info": null,
+                "reply_to_author": null,
+                "hush_info": null,
+                "system_status_message": null,
+                "root_post_author": null,
+                "author_context_pill": null,
+                "is_liked_by_root_author": false,
+                "pinned_post_info": {
+                 "is_pinned_to_parent_post": false,
+                 "is_pinned_to_profile": false
+                },
+                "related_trends_info": null,
+                "is_post_unavailable": false,
+                "post_unavailable_reason": null,
+                "post_tombstone_info": null,
+                "best_of_threads_info": null,
+                "show_podcast_link": false,
+                "is_reply_approval_enabled": false
+               },
+               "is_paid_partnership": null,
+               "caption": {
+                "text": "Що думаєте про теплові насоси? №36",
+                "can_translate": true,
+                "has_translation": true,
+                "pk": "93340802146202472",
+                "text_translation": null
+               },
+               "caption_is_edited": false,
+               "carousel_media": [
+                {
+                 "text_post_app_info": {
+                  "tappable_elements": [],
+                  "id": "XDTTextPostAppMediaInfo:13881127205884818",
+                  "share_info": {
+                   "quoted_post": null
+                  },
+                  "ultra_carousel_card_type": null
+                 },
+                 "accessibility_caption": "Тестовий опис",
+                 "has_audio": null,
+                 "is_dash_eligible": null,
+                 "image_versions2": {
+                  "candidates": [
+                   {
+                    "url": "https://example.invalid/media/shIw3jUj.jpg",
+                    "height": 846,
+                    "width": 1439
+                   },
+                   {
+                    "url": "https://example.invalid/media/zMyXvp-K.jpg",
+                    "height": 635,
+                    "width": 1080
+                   },
+                   {
+                    "url": "https://example.invalid/media/3ZBxJcqx.jpg",
+                    "height": 423,
+                    "width": 720
+                   },
+                   {
+                    "url": "https://example.invalid/media/n2t3IUaE.jpg",
+                    "height": 376,
+                    "width": 640
+                   },
+                   {
+                    "url": "https://example.invalid/media/spqk-19i.jpg",
+                    "height": 282,
+                    "width": 480
+                   },
+                   {
+                    "url": "https://example.invalid/media/jIXn3BtA.jpg",
+                    "height": 188,
+                    "width": 320
+                   },
+                   {
+                    "url": "https://example.invalid/media/EQIm-a8E.jpg",
+                    "height": 141,
+                    "width": 240
+                   },
+                   {
+                    "url": "https://example.invalid/media/6fdKE_Za.jpg",
+                    "height": 846,
+                    "width": 846
+                   },
+                   {
+                    "url": "https://example.invalid/media/mQrAIaHI.jpg",
+                    "height": 750,
+                    "width": 750
+                   },
+                   {
+                    "url": "https://example.invalid/media/oDDSJcOn.jpg",
+                    "height": 640,
+                    "width": 640
+                   },
+                   {
+                    "url": "https://example.invalid/media/RLHU77Z4.jpg",
+                    "height": 480,
+                    "width": 480
+                   },
+                   {
+                    "url": "https://example.invalid/media/dVN64Vv5.jpg",
+                    "height": 320,
+                    "width": 320
+                   },
+                   {
+                    "url": "https://example.invalid/media/mqjJYkSV.jpg",
+                    "height": 240,
+                    "width": 240
+                   },
+                   {
+                    "url": "https://example.invalid/media/2c7W7oTe.jpg",
+                    "height": 150,
+                    "width": 150
+                   }
+                  ]
+                 },
+                 "media_type": 1,
+                 "original_height": 846,
+                 "original_width": 1439,
+                 "pk": "9375680205053854051",
+                 "video_versions": null,
+                 "id": "9375680205053854051_9000000019",
+                 "number_of_qualities": null,
+                 "code": "DfG4374F4mj",
+                 "fbid": "13881127205884818",
+                 "user": {
+                  "pk": "9000000019",
+                  "id": "9000000019"
+                 }
+                },
+                {
+                 "text_post_app_info": {
+                  "tappable_elements": [],
+                  "id": "XDTTextPostAppMediaInfo:10538150779986144",
+                  "share_info": {
+                   "quoted_post": null
+                  },
+                  "ultra_carousel_card_type": null
+                 },
+                 "accessibility_caption": "Тестовий опис",
+                 "has_audio": null,
+                 "is_dash_eligible": null,
+                 "image_versions2": {
+                  "candidates": [
+                   {
+                    "url": "https://example.invalid/media/Q27GUpMo.jpg",
+                    "height": 412,
+                    "width": 1439
+                   },
+                   {
+                    "url": "https://example.invalid/media/Vl_Wn-pE.jpg",
+                    "height": 309,
+                    "width": 1080
+                   },
+                   {
+                    "url": "https://example.invalid/media/vtOgNpYK.jpg",
+                    "height": 206,
+                    "width": 720
+                   },
+                   {
+                    "url": "https://example.invalid/media/zcnBX6tl.jpg",
+                    "height": 183,
+                    "width": 640
+                   },
+                   {
+                    "url": "https://example.invalid/media/E2EbxA3A.jpg",
+                    "height": 137,
+                    "width": 480
+                   },
+                   {
+                    "url": "https://example.invalid/media/z8hDx62z.jpg",
+                    "height": 92,
+                    "width": 320
+                   },
+                   {
+                    "url": "https://example.invalid/media/jplqRvOU.jpg",
+                    "height": 69,
+                    "width": 240
+                   },
+                   {
+                    "url": "https://example.invalid/media/edGQSOdd.jpg",
+                    "height": 412,
+                    "width": 412
+                   },
+                   {
+                    "url": "https://example.invalid/media/_bFpogl6.jpg",
+                    "height": 412,
+                    "width": 412
+                   },
+                   {
+                    "url": "https://example.invalid/media/_bFpogl6.jpg",
+                    "height": 412,
+                    "width": 412
+                   },
+                   {
+                    "url": "https://example.invalid/media/edGQSOdd.jpg",
+                    "height": 412,
+                    "width": 412
+                   },
+                   {
+                    "url": "https://example.invalid/media/uXQ9ug5Z.jpg",
+                    "height": 320,
+                    "width": 320
+                   },
+                   {
+                    "url": "https://example.invalid/media/MwmHpoqi.jpg",
+                    "height": 240,
+                    "width": 240
+                   },
+                   {
+                    "url": "https://example.invalid/media/JiE5g04t.jpg",
+                    "height": 150,
+                    "width": 150
+                   }
+                  ]
+                 },
+                 "media_type": 1,
+                 "original_height": 412,
+                 "original_width": 1439,
+                 "pk": "1035086631545456961",
+                 "video_versions": null,
+                 "id": "1035086631545456961_9000000019",
+                 "number_of_qualities": null,
+                 "code": "DfG4470l0mw",
+                 "fbid": "10538150779986144",
+                 "user": {
+                  "pk": "9000000019",
+                  "id": "9000000019"
+                 }
+                }
+               ],
+               "code": "A_AdNUBMC6y",
+               "image_versions2": {
+                "candidates": [
+                 {
+                  "height": 846,
+                  "url": "https://example.invalid/media/shIw3jUj.jpg",
+                  "width": 1439
+                 },
+                 {
+                  "height": 635,
+                  "url": "https://example.invalid/media/zMyXvp-K.jpg",
+                  "width": 1080
+                 },
+                 {
+                  "height": 423,
+                  "url": "https://example.invalid/media/3ZBxJcqx.jpg",
+                  "width": 720
+                 },
+                 {
+                  "height": 376,
+                  "url": "https://example.invalid/media/n2t3IUaE.jpg",
+                  "width": 640
+                 },
+                 {
+                  "height": 282,
+                  "url": "https://example.invalid/media/spqk-19i.jpg",
+                  "width": 480
+                 },
+                 {
+                  "height": 188,
+                  "url": "https://example.invalid/media/jIXn3BtA.jpg",
+                  "width": 320
+                 },
+                 {
+                  "height": 141,
+                  "url": "https://example.invalid/media/EQIm-a8E.jpg",
+                  "width": 240
+                 },
+                 {
+                  "height": 846,
+                  "url": "https://example.invalid/media/6fdKE_Za.jpg",
+                  "width": 846
+                 },
+                 {
+                  "height": 750,
+                  "url": "https://example.invalid/media/mQrAIaHI.jpg",
+                  "width": 750
+                 },
+                 {
+                  "height": 640,
+                  "url": "https://example.invalid/media/oDDSJcOn.jpg",
+                  "width": 640
+                 },
+                 {
+                  "height": 480,
+                  "url": "https://example.invalid/media/RLHU77Z4.jpg",
+                  "width": 480
+                 },
+                 {
+                  "height": 320,
+                  "url": "https://example.invalid/media/dVN64Vv5.jpg",
+                  "width": 320
+                 },
+                 {
+                  "height": 240,
+                  "url": "https://example.invalid/media/mqjJYkSV.jpg",
+                  "width": 240
+                 },
+                 {
+                  "height": 150,
+                  "url": "https://example.invalid/media/2c7W7oTe.jpg",
+                  "width": 150
+                 }
+                ]
+               },
+               "original_height": 846,
+               "original_width": 1439,
+               "accessibility_caption": "Тестовий опис",
+               "is_dash_eligible": null,
+               "number_of_qualities": null,
+               "video_versions": null,
+               "has_audio": null,
+               "media_type": 8,
+               "fbid": "87043436751295715",
+               "audience": null,
+               "has_liked": false,
+               "like_count": 324,
+               "taken_at": 1793340044,
+               "canonical_url": null,
+               "has_viewer_saved": null,
+               "original_lang_for_translations": null,
+               "detected_language": null,
+               "source_type": null,
+               "gen_ai_detection_method": {
+                "detection_method": "NONE"
+               },
+               "like_and_view_counts_disabled": false,
+               "is_fb_only": null,
+               "is_internal_only": null
+              }
+             }
+            },
+            "sequence_number": 0
+           }
+          }
+         ]
+        ],
+        [
+         "CometResourceScheduler",
+         "registerHighPriHashes",
+         null,
+         [
+          [
+           "QVQHOxj",
+           "YbK0TxW"
+          ]
+         ]
+        ]
+       ]
+      }
+     },
+     {
+      "__bbox": null
+     },
+     {
+      "__bbox": null
+     }
+    ]
+   ]
+  ]
+ }
+}

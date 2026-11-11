@@ -1,0 +1,34 @@
+schema: spec-driven
+
+# Project context: standing constraints and choices that apply to every change.
+# Per-change decisions and their rationale belong in each change's design.md.
+context: |
+  Product: threadsift finds Threads users who have one chosen trait, using their posts and replies.
+  Vocabulary: trait (the characteristic searched for); evidence (a post or reply showing its author has the trait);
+  lead (a post or reply whose replies are likely to be evidence); match (an author confirmed to have the trait).
+  Posts are mostly in Ukrainian and Russian; text is stored and processed as published.
+
+  Top priority: minimize the risk of the collecting Threads account being restricted or banned.
+  When a choice trades ban risk against speed, convenience or simplicity, choose the lower ban risk.
+
+  Constraints:
+  - Zero cost: no paid services; everything runs on the operator's own machines.
+  - The collecting account is used only from the machine that runs collection; its session never leaves it.
+  - Tests must not require an installed Postgres server and must never contact Threads.
+  - SQL must work on Postgres 14 and later; use no version-specific features.
+  - No OS-specific code; OS differences live only in configuration defaults.
+  - LLM classification, automatic URL discovery and two-stage collection (collect posts with only their
+    readily visible replies, then expand full trees only for posts reviewed as leads) are possible future
+    additions, not commitments:
+    don't block them, don't build for them in advance.
+
+  Stack: Python 3.12 managed with uv; Typer CLI; Patchright driving installed Google Chrome
+  (plain Playwright as fallback); Postgres via SQLAlchemy 2 Core and psycopg 3; Alembic migrations; pytest.
+
+rules:
+  proposal:
+    - State what is out of scope.
+  specs:
+    - Describe observable behaviour only; no technology, library, database or framework names.
+  design:
+    - Don't restate the project context above; record only this change's decisions, with rationale and alternatives.

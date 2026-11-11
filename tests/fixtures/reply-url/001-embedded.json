@@ -1,0 +1,198 @@
+{
+ "url": "https://www.threads.com/@user_029/post/AtxA8oninXK",
+ "kind": "embedded",
+ "data": {
+  "require": [
+   [
+    "ScheduledServerJS",
+    "handle",
+    null,
+    [
+     {
+      "__bbox": {
+       "require": [
+        [
+         "RelayPrefetchedStreamCache@49216e4c0494327b356efedc33cd1447",
+         "next",
+         [],
+         [
+          "adp_BarcelonaPostPageTargetQueryRelayPreloader_6ae6101505fea7e79743936",
+          {
+           "__bbox": {
+            "complete": true,
+            "result": {
+             "data": {
+              "media": {
+               "pk": "7000000000000000070",
+               "id": "7000000000000000070_9000000029",
+               "user": {
+                "pk": "9000000029",
+                "text_app_last_visited_time": 1793442519,
+                "profile_pic_url": "https://example.invalid/media/5H1ZqSJf.jpg",
+                "username": "user_029",
+                "id": "9000000029",
+                "is_meta_ai_bot": false,
+                "full_name": "User 029",
+                "transparency_label": null,
+                "transparency_product": null,
+                "transparency_product_enabled": false,
+                "is_verified": false,
+                "has_onboarded_to_text_post_app": true,
+                "text_post_app_is_private": false,
+                "platform_podcast_episode_info": null,
+                "platform_podcast_info": null
+               },
+               "text_post_app_info": {
+                "show_header_follow": false,
+                "is_reply": true,
+                "id": "XDTTextPostAppMediaInfo:49462006591313706",
+                "best_of_threads_attachment_info": null,
+                "is_ghost_post": false,
+                "self_thread_info": {
+                 "self_thread_length": 2,
+                 "id": "14555067441220152",
+                 "post_position_in_self_thread": 2
+                },
+                "is_spoiler_media": false,
+                "tappable_elements": [],
+                "is_markup": false,
+                "attachment_tombstone_info": null,
+                "is_pinched": false,
+                "special_effects_enabled_str": "",
+                "reply_control": "everyone",
+                "tag_header": null,
+                "direct_reply_count": 0,
+                "has_viewer_replied": false,
+                "self_thread_count": 0,
+                "can_reply": true,
+                "gen_ai_reply_bot_on_media_deny_reason": "UNAVAILABLE",
+                "ghost_post_exp_time_ms": null,
+                "ghost_post_approximate_like_count_str": null,
+                "ghost_post_reply_type": null,
+                "ghost_post_approximate_reply_count_str": "NONE",
+                "repost_count": 0,
+                "quote_count": 0,
+                "share_info": {
+                 "is_reposted_by_viewer": false,
+                 "can_quote_post": true,
+                 "quoted_attachment_author_attribution_allowed": true,
+                 "quoted_attachment_post_unavailable": false,
+                 "quoted_attachment_post": null,
+                 "quoted_post": null,
+                 "reposted_post": null
+                },
+                "reshare_count": null,
+                "can_private_reply": false,
+                "profile_update_attachment_info": null,
+                "custom_feed_preview_info": null,
+                "platform_podcast_episode_info": null,
+                "platform_podcast_info": null,
+                "linked_inline_media": null,
+                "snippet_attachment_info": null,
+                "game_score_share_info": null,
+                "public_view_count_card_attachment_info": null,
+                "community_emoji_update_attachment_info": null,
+                "community_entity_card_info": null,
+                "community_champion_card_attachment_info": null,
+                "scorecard_attachment_info": null,
+                "sport_team_allegiance_card_attachment_info": null,
+                "algo_tweaks_info": null,
+                "reply_to_author": {
+                 "profile_pic_url": "https://example.invalid/media/5H1ZqSJf.jpg",
+                 "username": "user_029",
+                 "id": "9000000029"
+                },
+                "hush_info": null,
+                "system_status_message": null,
+                "root_post_author": {
+                 "username": "user_029",
+                 "id": "9000000029",
+                 "pk": "9000000029",
+                 "profile_pic_url": "https://example.invalid/media/5H1ZqSJf.jpg"
+                },
+                "author_context_pill": null,
+                "is_liked_by_root_author": false,
+                "pinned_post_info": {
+                 "is_pinned_to_parent_post": false,
+                 "is_pinned_to_profile": false
+                },
+                "related_trends_info": null,
+                "is_post_unavailable": false,
+                "post_unavailable_reason": null,
+                "post_tombstone_info": null,
+                "best_of_threads_info": null,
+                "show_podcast_link": false,
+                "is_reply_approval_enabled": false
+               },
+               "is_paid_partnership": null,
+               "caption": {
+                "text": "Ось мій досвід за рік:\nвитрати впали вдвічі №70",
+                "can_translate": true,
+                "has_translation": true,
+                "pk": "81954139777277509",
+                "text_translation": null
+               },
+               "caption_is_edited": false,
+               "carousel_media": null,
+               "code": "AtxA8oninXK",
+               "image_versions2": {
+                "candidates": []
+               },
+               "original_height": 612,
+               "original_width": 612,
+               "accessibility_caption": null,
+               "is_dash_eligible": null,
+               "number_of_qualities": null,
+               "video_versions": null,
+               "has_audio": null,
+               "media_type": 19,
+               "fbid": "49462006591313706",
+               "audience": null,
+               "has_liked": false,
+               "like_count": 1,
+               "taken_at": 1793439487,
+               "canonical_url": null,
+               "has_viewer_saved": null,
+               "original_lang_for_translations": null,
+               "detected_language": null,
+               "source_type": null,
+               "gen_ai_detection_method": {
+                "detection_method": "NONE"
+               },
+               "like_and_view_counts_disabled": false,
+               "is_fb_only": null,
+               "is_internal_only": null
+              }
+             }
+            },
+            "sequence_number": 0
+           }
+          }
+         ]
+        ],
+        [
+         "CometResourceScheduler",
+         "registerHighPriHashes",
+         null,
+         [
+          [
+           "QVQHOxj",
+           "YbK0TxW"
+          ]
+         ]
+        ]
+       ],
+       "phd2_indexes": ":598"
+      }
+     },
+     {
+      "__bbox": null
+     },
+     {
+      "__bbox": null
+     }
+    ]
+   ]
+  ]
+ }
+}

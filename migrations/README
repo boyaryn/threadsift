@@ -1,0 +1,28 @@
+Migrations
+==========
+
+Run with `threadsift db-upgrade` (or `alembic upgrade head`). Rolling back to
+`base` (`alembic downgrade base`) drops all data.
+
+Review rule: never touch the `author_type` type after the first migration
+------------------------------------------------------------------------------
+
+`author_type` is a Postgres enum that the first migration creates EMPTY. The
+operator fills it with their own values (`ALTER TYPE author_type ADD VALUE
+'...'`, see the main README). Those values live only in the operator's database,
+not in the code.
+
+So every migration after 0001 MUST NOT:
+
+  - drop, recreate or rename `author_type`,
+  - run `ALTER TYPE author_type ...`,
+  - change the type of `authors.type`,
+  - add or remove enum values on the operator's behalf.
+
+If a change seems to need any of that, stop and ask: it would silently destroy
+or invalidate the operator's list of values on upgrade. Reject such migrations
+in review.
+
+Views and triggers (added after 0001) depend on `authors.type`. They are kept
+in their own migrations so the operator can drop them, recreate the type to
+remove a value, and bring them back (see "Removing a value" in the main README).

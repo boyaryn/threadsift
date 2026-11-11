@@ -1,0 +1,215 @@
+{
+ "url": "https://www.threads.com/api/graphql",
+ "kind": "graphql",
+ "data": {
+  "data": {
+   "media": {
+    "pk": "7000000000000000060",
+    "id": "7000000000000000060_9000000019",
+    "user": {
+     "pk": "9000000019",
+     "text_app_last_visited_time": 1793456586,
+     "profile_pic_url": "https://example.invalid/media/HH1350Pb.jpg",
+     "username": "user_019",
+     "id": "9000000019",
+     "is_meta_ai_bot": false,
+     "full_name": "User 019",
+     "transparency_label": null,
+     "transparency_product": null,
+     "transparency_product_enabled": false,
+     "is_verified": true,
+     "has_onboarded_to_text_post_app": true,
+     "text_post_app_is_private": false,
+     "platform_podcast_episode_info": null,
+     "platform_podcast_info": null
+    },
+    "text_post_app_info": {
+     "show_header_follow": false,
+     "is_reply": true,
+     "id": "XDTTextPostAppMediaInfo:27263275436670017",
+     "best_of_threads_attachment_info": null,
+     "is_ghost_post": false,
+     "self_thread_info": {
+      "self_thread_length": 7,
+      "id": "67207922653177010",
+      "post_position_in_self_thread": 2
+     },
+     "is_spoiler_media": false,
+     "tappable_elements": [],
+     "is_markup": false,
+     "attachment_tombstone_info": null,
+     "is_pinched": false,
+     "special_effects_enabled_str": "",
+     "reply_control": "everyone",
+     "tag_header": null,
+     "direct_reply_count": 3,
+     "has_viewer_replied": false,
+     "self_thread_count": 0,
+     "can_reply": true,
+     "gen_ai_reply_bot_on_media_deny_reason": "UNAVAILABLE",
+     "ghost_post_exp_time_ms": null,
+     "ghost_post_approximate_like_count_str": null,
+     "ghost_post_reply_type": null,
+     "ghost_post_approximate_reply_count_str": "NONE",
+     "repost_count": 1,
+     "quote_count": 0,
+     "share_info": {
+      "is_reposted_by_viewer": false,
+      "can_quote_post": true,
+      "quoted_attachment_author_attribution_allowed": true,
+      "quoted_attachment_post_unavailable": false,
+      "quoted_attachment_post": null,
+      "quoted_post": null,
+      "reposted_post": null
+     },
+     "reshare_count": 13,
+     "can_private_reply": false,
+     "profile_update_attachment_info": null,
+     "custom_feed_preview_info": null,
+     "platform_podcast_episode_info": null,
+     "platform_podcast_info": null,
+     "linked_inline_media": null,
+     "snippet_attachment_info": null,
+     "game_score_share_info": null,
+     "public_view_count_card_attachment_info": null,
+     "community_emoji_update_attachment_info": null,
+     "community_entity_card_info": null,
+     "community_champion_card_attachment_info": null,
+     "scorecard_attachment_info": null,
+     "sport_team_allegiance_card_attachment_info": null,
+     "algo_tweaks_info": null,
+     "reply_to_author": {
+      "profile_pic_url": "https://example.invalid/media/HH1350Pb.jpg",
+      "username": "user_019",
+      "id": "9000000019"
+     },
+     "hush_info": null,
+     "system_status_message": null,
+     "root_post_author": {
+      "username": "user_019",
+      "id": "9000000019",
+      "pk": "9000000019",
+      "profile_pic_url": "https://example.invalid/media/HH1350Pb.jpg"
+     },
+     "author_context_pill": null,
+     "is_liked_by_root_author": false,
+     "pinned_post_info": {
+      "is_pinned_to_parent_post": false,
+      "is_pinned_to_profile": false
+     },
+     "related_trends_info": null,
+     "is_post_unavailable": false,
+     "post_unavailable_reason": null,
+     "post_tombstone_info": null,
+     "best_of_threads_info": null,
+     "show_podcast_link": false,
+     "is_reply_approval_enabled": false
+    },
+    "is_paid_partnership": null,
+    "caption": {
+     "text": "Ось мій досвід за рік:\nвитрати впали вдвічі №60",
+     "can_translate": true,
+     "has_translation": true,
+     "pk": "13628273305547530",
+     "text_translation": null
+    },
+    "caption_is_edited": false,
+    "carousel_media": null,
+    "code": "A5sPdYwQo_V",
+    "image_versions2": {
+     "candidates": [
+      {
+       "height": 438,
+       "url": "https://example.invalid/media/bhphNjkd.jpg",
+       "width": 1079
+      },
+      {
+       "height": 292,
+       "url": "https://example.invalid/media/MszPiM7y.jpg",
+       "width": 720
+      },
+      {
+       "height": 260,
+       "url": "https://example.invalid/media/7cmvr4Z5.jpg",
+       "width": 640
+      },
+      {
+       "height": 195,
+       "url": "https://example.invalid/media/SJBsE8cc.jpg",
+       "width": 480
+      },
+      {
+       "height": 130,
+       "url": "https://example.invalid/media/Wnv2IJ4m.jpg",
+       "width": 320
+      },
+      {
+       "height": 97,
+       "url": "https://example.invalid/media/djcohlY4.jpg",
+       "width": 240
+      },
+      {
+       "height": 438,
+       "url": "https://example.invalid/media/6YfJDWbg.jpg",
+       "width": 438
+      },
+      {
+       "height": 438,
+       "url": "https://example.invalid/media/x7t3dFA0.jpg",
+       "width": 438
+      },
+      {
+       "height": 438,
+       "url": "https://example.invalid/media/x7t3dFA0.jpg",
+       "width": 438
+      },
+      {
+       "height": 438,
+       "url": "https://example.invalid/media/6YfJDWbg.jpg",
+       "width": 438
+      },
+      {
+       "height": 320,
+       "url": "https://example.invalid/media/UBCzg5sG.jpg",
+       "width": 320
+      },
+      {
+       "height": 240,
+       "url": "https://example.invalid/media/uGY-P6H9.jpg",
+       "width": 240
+      },
+      {
+       "height": 150,
+       "url": "https://example.invalid/media/pYMJRB7y.jpg",
+       "width": 150
+      }
+     ]
+    },
+    "original_height": 438,
+    "original_width": 1079,
+    "accessibility_caption": "Тестовий опис",
+    "is_dash_eligible": null,
+    "number_of_qualities": null,
+    "video_versions": null,
+    "has_audio": null,
+    "media_type": 1,
+    "fbid": "27263275436670017",
+    "audience": null,
+    "has_liked": false,
+    "like_count": 75,
+    "taken_at": 1793340057,
+    "canonical_url": null,
+    "has_viewer_saved": null,
+    "original_lang_for_translations": null,
+    "detected_language": null,
+    "source_type": null,
+    "gen_ai_detection_method": {
+     "detection_method": "NONE"
+    },
+    "like_and_view_counts_disabled": false,
+    "is_fb_only": null,
+    "is_internal_only": null
+   }
+  }
+ }
+}

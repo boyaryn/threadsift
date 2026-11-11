@@ -1,0 +1,23 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+.idea/
+docs/codemie/
+
+# Saved Threads session (sensitive; never share or commit)
+.session/
+
+# Local configuration (may hold the database URL)
+config.toml
+
+# Payloads saved by `run --capture`
+.capture/
+
+# HAR files saved from the browser hold session cookies and tokens
+threadsift-har/
+*.har
+
+# Claude Code's local, per-machine settings (the shared commands and skills are tracked)
+.claude/settings.local.json
